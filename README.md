@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manobendro
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Design stuff
-- 📫 How to reach me, mailto:mr.manob7@gmail.com
+- 📫 How to reach me, mail to mr.manob7@gmail.com
 
 <!---
 manobendro/manobendro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
